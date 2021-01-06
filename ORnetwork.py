@@ -45,7 +45,7 @@ for i in range(1, 21):
               saida = 0
                #======================================================#
                # Compare answers and update weights if output does    #
-               # not match with the expected value                    #
+               # not match with the expected value.                   #
                #======================================================#               
                # Compara as respostas e atualiza os pesos caso a      #
                # saida nao corresponda ao valor esperado              #
